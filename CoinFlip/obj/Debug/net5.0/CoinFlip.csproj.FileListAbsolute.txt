@@ -1,0 +1,16 @@
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.exe
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.deps.json
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.json
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.dev.json
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.dll
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\ref\CoinFlip.dll
+A:\VisualCode\Github Repos\CoinFlip\bin\Debug\net5.0\CoinFlip.pdb
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.AssemblyReference.cache
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfoInputs.cache
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfo.cs
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.CoreCompileInputs.cache
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.dll
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\ref\CoinFlip.dll
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.pdb
+A:\VisualCode\Github Repos\CoinFlip\obj\Debug\net5.0\CoinFlip.genruntimeconfig.cache
